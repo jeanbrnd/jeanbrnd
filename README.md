@@ -13,7 +13,7 @@
 ---
 
 ## Linguagens & Ferramentas:
-<p align="center">
+<p align="start">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
   </a>
