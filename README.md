@@ -6,9 +6,7 @@
 
 
 ### Sobre mim
-- 🎓 Atualmente cursando o 3 ano do ensino medio.
-- 🚀 Desenvolvedor focado em **Node.js**, apaixonado por tecnologia.
-- 🤖 Criando **bots para Discord** e ferramentas de automação para facilitar a vida dos usuários.
+- Tenho nada para falar 🤙
 
 ---
 
