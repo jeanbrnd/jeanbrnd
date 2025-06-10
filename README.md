@@ -57,9 +57,6 @@
   <a href="https://discord.js.org/" target="_blank">
     <img title="Discord.js" alt="Discord.js" width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
   </a>
-  <a href="https://playwright.dev/" target="_blank">
-    <img title="Playwright" alt="Playwright" width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-plain.svg" />
-  </a>
 </p>
 <br clear="all" />
 
@@ -76,5 +73,6 @@
 ---
 
 <p align="center">
-  <i>"Sim foi o chat gpt que fez esse readme"</i> 🙄
+<i>"10 bugs no código, peguei um pra arrumar... agora tem 20."</i>
+
 </p>
