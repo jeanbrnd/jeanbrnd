@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Jean Brandão, tenho 17 anos e sou natural do Rio Grande do Sul. Estudo Programação desde os 12 anos, impulsionado pela curiosidade de entender como realmente as coisas funcionam. Atualmente desenvolvo projetos pessoais, como o [ShopEasy](https://shopeasy.site), uma automação no Discord criada para facilitar vendas na plataforma. Além disso, venho me aprofundando em linguagens fortemente tipadas, como o Java, e o C#
+Me chamo Jean Brandão, tenho 18 anos e sou natural do Rio Grande do Sul. Estudo Programação desde os 12 anos, impulsionado pela curiosidade de entender como realmente as coisas funcionam. Atualmente desenvolvo projetos pessoais, como o [ShopEasy](https://shopeasy.site), uma automação no Discord criada para facilitar vendas na plataforma. Além disso, venho me aprofundando em linguagens fortemente tipadas, como o Java, e o C#
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jeanbrandaoo/">
