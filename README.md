@@ -29,9 +29,5 @@ Me chamo Jean Brandão, tenho 18 anos e sou natural do Rio Grande do Sul. Estudo
 ---
 
 ### 🤖 Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs&s=25)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,git&s=25)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=prisma,postgresql,dynamodb,mysql&s=25)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discordjs,express&s=25)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,java,cs,html,css,react,nextjs,tailwind,express,fastify,prisma,postgresql,dynamodb,mysql,redis,docker,linux,git,github,githubactions,vscode,discord,discordjs,telegram,supabase,firebase,nginx,postman&perline=30)](https://skillicons.dev)
 ---
